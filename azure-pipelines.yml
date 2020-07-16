@@ -12,9 +12,8 @@ pool:
 steps:
 
   - task: Npm@1
-    displayName: 'npm custom'
     inputs:
-      command: custom
+      command: 'custom'
       customCommand: 'install --production'
 
   - script: 'npm test'
