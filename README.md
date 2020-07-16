@@ -1,4 +1,4 @@
-[!(https://duygua.visualstudio.com/Devler%20Azureda/_apis/build/status/duygusilivri.ContosoAir?branchName=master)](https://duygua.visualstudio.com/Devler%20Azureda/_build/latest?definitionId=24&branchName=master)
+[![Build Status](https://duygua.visualstudio.com/Devler%20Azureda/_apis/build/status/duygusilivri.ContosoAir?branchName=master)](https://duygua.visualstudio.com/Devler%20Azureda/_build/latest?definitionId=24&branchName=master)
 
 
 [Build Status](https://duygua.visualstudio.com/Devler%20Azureda/_build/latest?definitionId=24&branchName=master)
